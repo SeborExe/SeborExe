@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeborExe
-- 👀 I’m interested in Game and mobile app develop/
-- 🌱 I’m currently learning mainly c# (a little flutter and dart, php and another web develop languages).
-- 💞️ I’m looking to collaborate on game or mobile development! 
+- 👀 I’m interested in Game Dev!
+- 🌱 I’m currently learning mainly c++ and C#. Now I'm working with Unreal Engine 5 but i more than 2 years experience with Unity.
+- 💞️ I’m looking to collaborate on game development (mobile and something bigger!)
 - 📫 How to reach me? - This is my mail: haradevelopment@gmail.com
 - And this is my portfolio: https://sebastianharaportfolio-dfcdd.web.app/
 
